@@ -1,2 +1,2 @@
-# virtual-assistant-chappie-
-Android Application
+# A Virtual Assistant Android App by Lokesh Pandey
+
